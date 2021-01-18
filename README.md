@@ -1,6 +1,6 @@
 <h1> Hey ! Welcome to my Github page ! :v:</h1>
 
-Contact me : 
+<h2>Contact me : </h2>
 
 Twitter : <a href="https://twitter.com/ma_this_">@ma_this_</a><br/>
 Discord : Neox#0001<br/>
