@@ -4,11 +4,9 @@ I'm Mathis, a passionate Full-Stack Web Developer from France.
 
 <h4>Contact me : </h4>
 
-<ul>
-  <li>Discord : Neox#0001</li>
-  <li>Twitter : <a href="https://twitter.com/ma_this_">@ma_this_</a></li>
-  <li>Mail : <a href="mailto:mathischambon85@gmail.com">mathischambon85@gmail.com</a></li>
-</ul>
+- Discord : Neox#0001
+- Twitter : <a href="https://twitter.com/ma_this_">@ma_this_</a>
+- Mail : <a href="mailto:mathischambon85@gmail.com">mathischambon85@gmail.com</a>
 
 More about me on my portfolio right <a href="https://mathiis.tk/">there</a>
 
