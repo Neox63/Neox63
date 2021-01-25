@@ -2,7 +2,7 @@
 
 I'm Mathis, a passionate Full-Stack Web Developer from France.
 
-<h2>Contact me : </h2>
+<h4>Contact me : </h4>
 
 <ul>
   <li>Discord : Neox#0001</li>
