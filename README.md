@@ -12,4 +12,4 @@ More about me on my portfolio right <a rel="noopener noreferrer" target="_blank"
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Neox63&count_private=true&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neox63&show_icons=true&exclude_repo=PPE-GMAO,github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neox63&show_icons=true&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
