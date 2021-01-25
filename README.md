@@ -10,6 +10,6 @@
 
 More about me on my portfolio right <a rel="noopener noreferrer" target="_blank" href="https://mathiis.tk/">there</a>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Neox63&show_icons=true&include_all_commits=true&hide=contribs,prs)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Neox63&show_icons=true&count_private=true&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neox63&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
