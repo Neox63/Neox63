@@ -16,4 +16,4 @@ More about me on my portfolio right <a href="https://mathiis.tk/">there</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neox63)](https://github.com/anuraghazra/github-readme-stats)
 
-*NOTE: Top languages does not indicate my skill level, it's a Github metric of which languages i used the most on Github* 
+*NOTE: Top languages does not indicate my skill level, it's a metric of which languages i used the most on Github* 
