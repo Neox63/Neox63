@@ -10,7 +10,7 @@ I'm Mathis, a passionate Full-Stack Web Developer from France.
 - Twitter : <a href="https://twitter.com/ma_this_">@ma_this_</a>
 - Mail : <a href="mailto:mathischambon85@gmail.com">mathischambon85@gmail.com</a>
 
-More about me on my portfolio right <a href="https://mathiis.tk/">there</a>
+If you want to learn more about me, check my portfolio right <a href="https://mathiis.tk/">there</a> !
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Neox63&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs)
 
