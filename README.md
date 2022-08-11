@@ -3,7 +3,7 @@
 
 I'm Mathis, a passionate Web Developer from France.
 
-If you want to learn more about me, check out my portfolio right [there]("https://mathiis.tk/") !
+If you want to learn more about me, check out my portfolio right [there](https://mathiis.tk/) !
 
 ## Stats (seriously, who doesn't like stats ??) : 
 
