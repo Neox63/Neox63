@@ -1,14 +1,11 @@
-<h1> Hey ! Welcome to my Github page ! :v:</h1>
+## Hey there :v:
 
 ![](https://komarev.com/ghpvc/?username=Neox63)
 
-I'm Mathis, a passionate Full-Stack Web Developer from France.
+I'm Mathis, a passionate Web Developer from France.
 
-<h4>Contact me : </h4>
+If you want to learn more about me, check out my portfolio right [there]("https://mathiis.tk/") !
 
-- Discord : Neox#9222
-- Mail : <a href="mailto:mathischambon85@gmail.com">mathischambon85@gmail.com</a>
-
-If you want to learn more about me, check out my portfolio right <a href="https://mathiis.tk/">there</a> !
+#### Stats (seriously, who doesn't like stats ??) : 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neox63)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Neox63&show_icons=true&include_all_commits=true&count_private=true) 
